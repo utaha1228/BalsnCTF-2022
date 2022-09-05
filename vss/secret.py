@@ -1,0 +1,1 @@
+FLAG = b"flag{test}"

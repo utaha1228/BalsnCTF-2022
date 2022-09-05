@@ -1,0 +1,1 @@
+flag = b"BALSN{almost_linear_too_easy}"
