@@ -1,4 +1,4 @@
-# BalsnCTF-2022
+# BalsnCTF 2022
 
 This repository includes files and writeups for challenges I authored in BalsnCTF 2022. The challenges are sorted by intended difficulty from easy to hard.
 
